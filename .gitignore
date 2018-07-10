@@ -1,0 +1,7 @@
+DMBaby.xcodeproj/xcuserdata/
+DMBaby.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+DMBaby.xcodeproj/project.xcworkspace/xcuserdata/
